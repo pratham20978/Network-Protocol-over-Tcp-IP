@@ -161,7 +161,7 @@ int main(){
 
     // Connect to Other User
     string UserIP="192.168.1.9";
-    uint16_t port = 9999;
+    uint16_t port = 22;
     
 
     bool loggedIn = false; // Flag to trace login status;
